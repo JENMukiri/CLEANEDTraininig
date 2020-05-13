@@ -55,10 +55,10 @@ Lets take a look at the input section.
 What are the different Outputs and Results.
 
 
-## Example one (Send a Cow report)
+## Example one (graphs)
 
 
-## Example two (Southern highland report)
+## Example two (table)
 
 <!--chapter:end:04-application.Rmd-->
 
