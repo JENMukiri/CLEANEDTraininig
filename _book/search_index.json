@@ -3,6 +3,7 @@
 ["intro.html", "Chapter 1 Introduction to CLEANED 1.1 History of CLEANED 1.2 Importance of CLEANED", " Chapter 1 Introduction to CLEANED 1.1 History of CLEANED 1.2 Importance of CLEANED "],
 ["hands-on-the-tool-the-input-section.html", "Chapter 2 Hands on the tool the input section", " Chapter 2 Hands on the tool the input section Lets take a look at the input section. "],
 ["parameterization.html", "Chapter 3 Parameterization", " Chapter 3 Parameterization What data do we need and where can we get it from. "],
-["outputs-and-results.html", "Chapter 4 Outputs and Results 4.1 Example one (Send a Cow report) 4.2 Example two (Southern highland report) 4.3 Example one (Send a Cow report) 4.4 Example two (Southern highland report)", " Chapter 4 Outputs and Results What are the different Outputs and Results. 4.1 Example one (Send a Cow report) 4.2 Example two (Southern highland report) Applications 4.3 Example one (Send a Cow report) 4.4 Example two (Southern highland report) "],
+["outputs-and-results.html", "Chapter 4 Outputs and Results 4.1 Example one (Send a Cow report) 4.2 Example two (Southern highland report)", " Chapter 4 Outputs and Results What are the different Outputs and Results. 4.1 Example one (Send a Cow report) 4.2 Example two (Southern highland report) "],
+["applications.html", "Chapter 5 Applications 5.1 Example one (Send a Cow report) 5.2 Example two (Southern highland report)", " Chapter 5 Applications 5.1 Example one (Send a Cow report) 5.2 Example two (Southern highland report) "],
 ["references.html", "References", " References "]
 ]

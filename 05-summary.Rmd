@@ -1,4 +1,4 @@
-Applications
+# Applications
 
 
 ## Example one (Send a Cow report)

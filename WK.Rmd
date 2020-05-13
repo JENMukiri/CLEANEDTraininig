@@ -62,7 +62,7 @@ What are the different Outputs and Results.
 
 <!--chapter:end:04-application.Rmd-->
 
-Applications
+# Applications
 
 
 ## Example one (Send a Cow report)
