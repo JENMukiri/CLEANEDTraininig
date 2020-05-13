@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "203621217",
+    "hash" : "0",
     "id" : "477FF8C5",
-    "lastKnownWriteTime" : 1589356786,
-    "last_content_update" : 1589356786,
+    "lastKnownWriteTime" : 1589360768,
+    "last_content_update" : 1589360768,
     "path" : "D:/Projects/CLEANEDTraining/WK/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
