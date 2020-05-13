@@ -23,6 +23,6 @@ Additionally, how to , videos are integrated into the workbook chapters.The vide
 
 We hope that you will use and understand the CLEANED model. 
 
-## What you will need to get started
+## What you will need to get started {-}
 
 You will need to download [CLEAENED](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/G0G8IY) & the [Manual](https://hdl.handle.net/10568/107238)
