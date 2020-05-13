@@ -22,3 +22,57 @@ Recent modification of this workbook were written to augment a series of slide d
 Additionally, how to , videos are integrated into the workbook chapters.The videos also serve to illustrate concepts and techniques presented in the workbook.
 
 We hope that you will use and understand the CLEANED model. 
+
+<!--chapter:end:index.Rmd-->
+
+# Introduction to CLEANED {#intro}
+
+## History of CLEANED 
+
+
+
+
+## Importance of CLEANED
+
+
+<!--chapter:end:01-intro.Rmd-->
+
+# Hands on the tool the input section
+
+Lets take a look at the input section.
+
+<!--chapter:end:02-literature.Rmd-->
+
+# Parameterization  
+
+*What data do we need and where can we get it from*.
+
+
+<!--chapter:end:03-method.Rmd-->
+
+# Outputs and Results 
+
+What are the different Outputs and Results.
+
+
+## Example one (Send a Cow report)
+
+
+## Example two (Southern highland report)
+
+<!--chapter:end:04-application.Rmd-->
+
+Applications
+
+
+## Example one (Send a Cow report)
+
+
+## Example two (Southern highland report)
+
+<!--chapter:end:05-summary.Rmd-->
+
+
+
+<!--chapter:end:06-references.Rmd-->
+

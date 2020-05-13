@@ -1,3 +1,4 @@
-# Methods
+# Parameterization  
 
-We describe our methods in this chapter.
+*What data do we need and where can we get it from*.
+

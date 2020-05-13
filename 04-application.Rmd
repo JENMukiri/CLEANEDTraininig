@@ -1,7 +1,9 @@
-# Applications
+# Outputs and Results 
 
-Some _significant_ applications are demonstrated in this chapter.
+What are the different Outputs and Results.
 
-## Example one
 
-## Example two
+## Example one (Send a Cow report)
+
+
+## Example two (Southern highland report)

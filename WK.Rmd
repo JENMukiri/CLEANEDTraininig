@@ -5,87 +5,70 @@ date: "13/05/2020"
 bibliography:
 - book.bib
 - packages.bib
-description: This is a CLEANED workbook to help you better understand the tool.
+description: This is a workbook to help you in understanding and learning CLEANED X.
 documentclass: book
 link-citations: yes
 site: bookdown::bookdown_site
 biblio-style: apalike
 ---
 
-# Prerequisites
+# Prerequisites {-}
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
+This lab workbook contains hands-on material supplementing the CLEANED training taught by Jessica Mukir and hosted by the Tropical Forages Program, Alliance for Bioversity Inventational and CIAT.
 
-The **bookdown** package can be installed from CRAN or Github:
 
-```{r eval=FALSE}
-install.packages("bookdown")
-# or the development version
-# devtools::install_github("rstudio/bookdown")
-```
+Recent modification of this workbook were written to augment a series of slide deck presentations developed for the training. The slides and workbook, together and along with the virtual presentations, intend to encourage the use of the CLEANED model. Use these resources to guide your learning.If you’d like, watch a video recorded from the training.
 
-Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
+Additionally, how to , videos are integrated into the workbook chapters.The videos also serve to illustrate concepts and techniques presented in the workbook.
 
-To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
-
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
+We hope that you will use and understand the CLEANED model. 
 
 <!--chapter:end:index.Rmd-->
 
-# Introduction {#intro}
+# Introduction to CLEANED {#intro}
 
-You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
+## History of CLEANED 
 
-Figures and tables with captions will be placed in `figure` and `table` environments, respectively.
 
-```{r nice-fig, fig.cap='Here is a nice figure!', out.width='80%', fig.asp=.75, fig.align='center'}
-par(mar = c(4, 4, .1, .1))
-plot(pressure, type = 'b', pch = 19)
-```
 
-Reference a figure by its code chunk label with the `fig:` prefix, e.g., see Figure \@ref(fig:nice-fig). Similarly, you can reference tables generated from `knitr::kable()`, e.g., see Table \@ref(tab:nice-tab).
 
-```{r nice-tab, tidy=FALSE}
-knitr::kable(
-  head(iris, 20), caption = 'Here is a nice table!',
-  booktabs = TRUE
-)
-```
+## Importance of CLEANED
 
-You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].
 
 <!--chapter:end:01-intro.Rmd-->
 
-# Literature
+# Hands on the tool the input section
 
-Here is a review of existing methods.
+Lets take a look at the input section.
 
 <!--chapter:end:02-literature.Rmd-->
 
-# Methods
+# Parameterization  
 
-We describe our methods in this chapter.
+*What data do we need and where can we get it from*.
+
 
 <!--chapter:end:03-method.Rmd-->
 
-# Applications
+# Outputs and Results 
 
-Some _significant_ applications are demonstrated in this chapter.
+What are the different Outputs and Results.
 
-## Example one
 
-## Example two
+## Example one (Send a Cow report)
+
+
+## Example two (Southern highland report)
 
 <!--chapter:end:04-application.Rmd-->
 
-# Final Words
+Applications
 
-We have finished a nice book.
+
+## Example one (Send a Cow report)
+
+
+## Example two (Southern highland report)
 
 <!--chapter:end:05-summary.Rmd-->
 
