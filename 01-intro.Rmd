@@ -1,9 +1,9 @@
-# Introduction to CLEANED {#intro}
+# Introduction to CLEANED Training {#intro}
 
-## History of CLEANED 
+## CLEANED Agenda
+
+![Agenda](Date.pdf){width=800px}
 
 
 
-
-## Importance of CLEANED
 
