@@ -43,7 +43,7 @@ The grade for this class is either Pass or No record. In order to pass the train
 
 ## CLEANED Agenda 
 
-![Agenda](Date.pdf){width=800px}
+![Agenda](AgendaD123.pdf){width=800px}
 
 
 
