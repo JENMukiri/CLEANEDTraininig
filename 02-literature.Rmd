@@ -5,6 +5,8 @@ In this section we shall look at the CLEAENED model, what exactly is it?
 
 ## Slides & Recording
 
+<iframe src="https://cgiar-my.sharepoint.com/personal/cleaned_cgiar_org/_layouts/15/Doc.aspx?sourcedoc={fc81b0bd-c53d-4128-b737-ba6ce8b8f249}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+
 
 
 
