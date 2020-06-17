@@ -7,7 +7,7 @@ In this section we shall look at the INPUT section of the CLEANED mdoel.
 
 **Slides used during day 2**
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8neddJ8Na9YNUr1V8TpNGOOZ0evXD8glp-NTBdh9PRY5muNbVqbxFYYU0nYJgLw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="400" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSB90L44VXkCYpxWqL6ZQ13pBg9sZhuUspTnkm6j_iCzydVFLj1du2plRCfaN40dw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="400" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 **Upload of training video used on day 2**
 
@@ -18,7 +18,7 @@ In this section we shall look at the INPUT section of the CLEANED mdoel.
 
 ## Assignment 2 
 
-
+<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=AA76ahT6t0CKLiKn-MNX1aE1vfzSBf5GkjzzKvqgj8ZURUE1MkIzV1BQTEs2U0U3Ukw0UFdCV1ROSy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 ## Pre - recorded materials 
 
