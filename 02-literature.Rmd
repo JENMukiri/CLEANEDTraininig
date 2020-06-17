@@ -5,9 +5,11 @@ In this section we shall look at the CLEAENED model, what exactly is it?
 
 ## Slides & Recording
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8neddJ8Na9YNUr1V8TpNGOOZ0evXD8glp-NTBdh9PRY5muNbVqbxFYYU0nYJgLw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="250" height="250" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+**Slides used during day 1**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8neddJ8Na9YNUr1V8TpNGOOZ0evXD8glp-NTBdh9PRY5muNbVqbxFYYU0nYJgLw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="400" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+**Upload of training video used on day 1**
 
 ## Quiz 1
 
@@ -15,3 +17,12 @@ In this section we shall look at the CLEAENED model, what exactly is it?
 <iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=AA76ahT6t0CKLiKn-MNX1aE1vfzSBf5GkjzzKvqgj8ZUMDJJMDFSNzc1TDlEWk1QTk40QzQ2NzhJNi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 ## Assignment 1 
+
+
+
+## Pre - recorded materials 
+
+**Slides used for the pre-recorded videos**
+
+
+**Upload of pre- recorded video mateiral**
