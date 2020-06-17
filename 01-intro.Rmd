@@ -1,19 +1,19 @@
-#  CLEANED Training introduction and information{#intro}
+#  CLEANED Training introduction and information {-}
 
 ## Training Meeting Times
 *	Mon, Wed and Fri for virtual training sessions (10:00am -12:00pm: GMT+3)
 * Tue and Thu to carry out assignments
 
-## Prerequisites
+## Prerequisites {-}
 There are no prerequisites for this course.
 
-## Training Description
+## Training Description {-}
 Livestock are key to food security, nutrition and livelihoods. The demand for livestock products is expected to double in developing countries. However, the livestock sector is also associated with great environmental costs such as land degradation, high water use, excessive GHG emissions and loss of natural ecosystems and biodiversity. 
 Designing sustainable livestock enterprises poses a challenge in developing countries due to lack of data and models. The CLEANED minimum data ex-ante environmental impact tool developed by the Alliance can help to fill this gap. CLEANED is an easy-to-use Excel-based tool that allows users to explore multiple impacts of developing livestock production systems. It models the impacts of changes in different livestock enterprises on productivity, land and water use, greenhouse gas emissions and soil health. 
 
 The aim for this training is to strengthen the technical capacity of agriculture stakeholders and for them to be able to use this tool as a means of improved decision making in the agriculture development sector with a focus on livestock systems. 
 
-## Learning Outcomes
+## Learning Outcomes {-}
 If I've done a good job as the instructor and you've put effort into the training, by the end of the two weeks, you will be able to:
 
 1. **Describe** the importance of carrying out environmental impacts assessments in the livestock sector.
@@ -23,25 +23,25 @@ If I've done a good job as the instructor and you've put effort into the trainin
      + **Carry out** different intervention scenarios
 3. **Summarize**, **analyses** outputs needed for decision making.
 
-## Expectations
+## Expectations {-}
 * That you are willing to share your knowledge, opinions, and ideas in class.
 * That you are open to the ideas and knowledge of your peers.
 * That any concept that is unclear or confusing will be explored and examined.
 
-## Texts & Materials
+## Texts & Materials {-}
 1. Virtual slide presentations and discussions
 2. Online quizzes
 3. Pre-recorded materials
 4. Final assignment and presentation. 
 
-## Assignments / Grading’s
+## Assignments / Grading’s {-}
 There are 5, post-class assignments. Dues dates and descriptions are provided in agenda . These assgiments will strength your ability to use the CLEANED model.
 
 In addition, each trainging session will have at least one small-group breakout , active learning assignment and indepented quizzes.
 
 The grade for this class is either Pass or No record. In order to pass the training, you must satisfactorily complete all of the post-class Assignments, and participate in 3 or more training discussions and activities.
 
-## CLEANED Agenda
+## CLEANED Agenda {-}
 
 ![Agenda](Date.pdf){width=800px}
 
