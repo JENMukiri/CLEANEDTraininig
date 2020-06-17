@@ -5,8 +5,7 @@ In this section we shall look at the CLEAENED model, what exactly is it?
 
 ## Slides & Recording
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8neddJ8Na9YNUr1V8TpNGOOZ0evXD8glp-NTBdh9PRY5muNbVqbxFYYU0nYJgLw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8neddJ8Na9YNUr1V8TpNGOOZ0evXD8glp-NTBdh9PRY5muNbVqbxFYYU0nYJgLw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="250" height="250" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 
