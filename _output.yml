@@ -1,7 +1,7 @@
 bookdown::gitbook:
   css: style.css
   config:
-    toc:
+    toc:true
       before: |
         <li><a href="./">CLEANED Workbook</a></li>
       after: |

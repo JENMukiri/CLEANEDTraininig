@@ -14,15 +14,16 @@ biblio-style: apalike
 
 # Preface {-}
 
-This lab workbook contains hands-on material supplementing the CLEANED training taught by Jessica Mukir and hosted by the Tropical Forages Program, Alliance for Bioversity Inventational and CIAT.
+This lab workbook contains hands-on material supplementing the CLEANED training taught by [Jessica Mukiri](https://jmukiri.com/), An Notenbaert, Birthe Paul, Emmanuel Mwema and Rein Van der Hoek hosted by the [Tropical Forages Program](https://ciat.cgiar.org/what-we-do/forages-livestock/), at the [Alliance for Bioversity Inventational and CIAT](https://ciat.cgiar.org/alliance/).
 
+This workbook was written to augment a series of slide deck presentations developed for the training. The slides and workbook, together and along with the virtual presentations, intend to encourage the use of the CLEANED model. Use these resources to guide your learning.
 
-This workbook were written to augment a series of slide deck presentations developed for the training. The slides and workbook, together and along with the virtual presentations, intend to encourage the use of the CLEANED model. Use these resources to guide your learning.
-
-Additionally, how to , videos are integrated into the workbook chapters.The videos also serve to illustrate concepts and techniques presented in the workbook.
+Additionally,how to,videos are integrated into the workbook chapters.The videos also serve to illustrate concepts and techniques not taught in the training.
 
 We hope that you will use and understand the CLEANED model. 
 
 ## What you will need to get started {-}
 
-You will need to download [CLEAENED](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/G0G8IY) & the [Manual](https://hdl.handle.net/10568/107238)
+You will need	Microsoft Excel 2013 or newer.
+
+You will need to download the model:  [CLEANED](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/G0G8IY) & the [Manual](https://hdl.handle.net/10568/107238)
