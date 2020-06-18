@@ -1,9 +1,7 @@
 bookdown::gitbook:
   css: style.css
   config:
-    toc:true
-    toc_float:
-      collapsed: false
+    toc:
       before: |
         <li><a href="./">CLEANED Workbook</a></li>
       after: |
