@@ -1,6 +1,6 @@
-# Hands on with the INPUT section  
+# Hands-on with the INPUT section  
 
-In this section we shall look at the INPUT section of the CLEANED mdoel.
+In this section we shall look at the INPUT section of the CLEANED model.
 
 
 ## Slides & Recording
@@ -25,5 +25,5 @@ In this section we shall look at the INPUT section of the CLEANED mdoel.
 **Slides used for the pre-recorded videos**
 
 
-**Upload of pre- recorded video mateiral**
+**Upload of pre- recorded video material**
 

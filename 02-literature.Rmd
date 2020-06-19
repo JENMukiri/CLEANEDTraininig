@@ -1,6 +1,6 @@
 # Overview of CLEANED 
 
-In this section we shall look at the CLEAENED model, what exactly is it?
+In this section we shall look at the CLEANED model, what exactly is it?
 
 
 ## Slides & Recording
@@ -26,4 +26,4 @@ In this section we shall look at the CLEAENED model, what exactly is it?
 **Slides used for the pre-recorded videos**
 
 
-**Upload of pre- recorded video mateiral**
+**Upload of pre- recorded video material**

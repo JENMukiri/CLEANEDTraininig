@@ -17,11 +17,11 @@ The aim for this training is to strengthen the technical capacity of agriculture
 If I've done a good job as the instructor and you've put effort into the training, by the end of the two weeks, you will be able to:
 
 1. **Describe** the importance of carrying out environmental impacts assessments in the livestock sector.
-2. **Carry out** assessments CLEANED assessments in your day to day activities and be able to:
+2. **Carry out** CLEANED assessments in your day to day activities and be able to:
      + **Calculate** and gather valid input data needed for the model
      + **Explain** the calculations and parametrize the tool for a specific enterprise in a specific region
      + **Carry out** different intervention scenarios
-3. **Summarize**, **analyses** outputs needed for decision making.
+3. **Summarize**, **analysis** outputs needed for decision making.
 
 ## Expectations 
 * That you are willing to share your knowledge, opinions, and ideas in class.
@@ -35,11 +35,12 @@ If I've done a good job as the instructor and you've put effort into the trainin
 4. Final assignment and presentation. 
 
 ## Assignments / Grading’s 
-There are 5, post-class assignments. Dues dates and descriptions are provided in agenda . These assgiments will strength your ability to use the CLEANED model.
+There are 5 post-class assignments. Due dates and descriptions are provided in the agenda. These assignments will strengthen your ability to use the CLEANED model.
 
-In addition, each trainging session will have at least one small-group breakout , active learning assignment and indepented quizzes.
+In addition, each training session will have at least one small-group breakout, active learning assignment and independent quizzes.
 
 The grade for this class is either Pass or No record. In order to pass the training, you must satisfactorily complete all of the post-class Assignments, and participate in 3 or more training discussions and activities.
+
 
 ## CLEANED Agenda 
 
