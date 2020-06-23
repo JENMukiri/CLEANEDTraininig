@@ -30,3 +30,7 @@ In this section we shall look at the CLEANED model, what exactly is it?
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT9elcqQpxmrlEe9iZ1h--MrkNkbhCrSWORzz668-L3W8w9K_TOgFMc6lQIw1BFOw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+ *for voice over use this link below*
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xZTJapf88YQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
