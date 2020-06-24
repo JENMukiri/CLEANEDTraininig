@@ -24,6 +24,8 @@ In this section we shall look at the INPUT section of the CLEANED model.
 
 **Slides used for the pre-recorded videos**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLb7sFRwBcNMVAMXBpiqTJhL07_F-kwxvn61SshCAJC8NEyVhIGWULV6HYiFBd84jOFVhBQZChHOZY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 **Upload of pre- recorded video material**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RVO9PAOIDwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
