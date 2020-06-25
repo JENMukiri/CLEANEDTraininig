@@ -1,3 +1,43 @@
 `r if (knitr::is_html_output()) '
-# References {-}
+# Extra mateiral from training {-}
+
+**Day 1**
+
+Opening Remarks
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR9lDLqKJUia82NKYFQKstiahfe6stYiz_w-tnNqUQSbGApRCXDGD8rHPmWQ9w-yA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+
+Livestock systems in Ethiopia, Tanzania, Tunisia, Uganda and Vietnam
+
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR2JIMWTgjvpHyEeBkhwqgtaavthoVc4D12H62RuFvMfsmYoS6IjNc5tF1fVpRWOQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRwWkCE7qDD4EmL7yokCa58hyKFymmMUIYGGD3k7qgMpQWmylabLlYhgE8yhTGNqQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTi7_o63_7e2DW7zaZgw0z-PORe2FlTaj---KJ-iq4xiOLqZi_127NUW0OxngH-fQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTuJO0Elb8xgZ9xmx0XAB8_mCdRrD-IxVyYz11VTWPWy8Bp2FzRENwkOx67xODKmw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQCU6enCOgDAu9TO0W76vybFpnMD-Gipb8NrDFreDVSrnom3X-ToC1tVAEPPWnmUA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 '`

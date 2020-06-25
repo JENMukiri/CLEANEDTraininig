@@ -26,10 +26,21 @@ In this section we shall look at the Results section of the CLEANED model.
 
 **Slides used for the pre-recorded videos**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p40k6STl_Ng" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Upload of pre- recorded video material**
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSG8G-l54y0OKXN_iBkeZ1bqKPPnbv054nhmyZRI3HXrW0NBfe4coj-kif-tr6nVA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 ## Examples of CLEANED Outputs
 
-Reports, policy briefs etc
+![Feeding a productive dairy cow in western Kenya: environmental and socioeconomic impacts](FEEDING A PRODUCTIVE DAIRY COW IN WESTERN KENYA.pdf){width=500px}
+
+
+<iframe src="https://ciat.cgiar.org/ciat-projects/environmental-assessments-of-livestock-systems-using/" scrolling= "yes"></iframe>
+
+
+
+
+

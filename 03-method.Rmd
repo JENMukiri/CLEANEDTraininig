@@ -11,6 +11,8 @@ In this section we shall look at the INPUT section of the CLEANED model.
 
 **Upload of training video used on day 2**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xZG-zXJB8SQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Quiz 2
 
 
