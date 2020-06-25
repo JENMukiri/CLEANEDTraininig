@@ -38,7 +38,7 @@ In this section we shall look at the Results section of the CLEANED model.
 ![Feeding a productive dairy cow in western Kenya: environmental and socioeconomic impacts](FEEDING A PRODUCTIVE DAIRY COW IN WESTERN KENYA.pdf){width=500px}
 
 
-<iframe src="https://ciat.cgiar.org/ciat-projects/environmental-assessments-of-livestock-systems-using/" scrolling= "yes"></iframe>
+<iframe width="640" height="480"src="https://ciat.cgiar.org/ciat-projects/environmental-assessments-of-livestock-systems-using/" scrolling= "yes"></iframe>
 
 
 
