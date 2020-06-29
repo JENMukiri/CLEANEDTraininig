@@ -1,5 +1,5 @@
 `r if (knitr::is_html_output()) '
-# Extra mateiral from training {-}
+# Extra material from training {-}
 
 **Day 1**
 
