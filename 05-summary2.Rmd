@@ -13,7 +13,7 @@ In this section we shall look at the several dimensions of the CLEANED model.
 
 **Upload of training video used on day 5**
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NawAb0ynvcI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Quiz 5
 
